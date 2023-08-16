@@ -2,7 +2,7 @@
 
 stags is a minimalist static site generator that relies on shell commands rather than a large templating language. stags also auto generates rss feeds
 
-an example of a stags site is [my personal website](https://github.com/limnwiki/limnwiki)
+an example of a stags site is [my personal website](https://github.com/limnwiki/website)
 
 ## Dependencies
 ```
