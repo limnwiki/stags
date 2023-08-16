@@ -2,14 +2,14 @@
 
 stags is a minimalist static site generator that relies on shell commands rather than a large templating language. stags also auto generates rss feeds
 
-an example of a stags site is [my personal website](https://github.com/limnwiki/limn.wiki)
+an example of a stags site is [my personal website](https://github.com/limnwiki/limnwiki)
 
 ## Dependencies
 ```
 boost
 ```
 
-the boost dependency can be removed by using the std regex library in [`html.hpp`](/src/html.hpp) but the boost version is faster
+the boost dependency can be removed by using the std::regex library in [`html.hpp`](/src/html.hpp), but the boost version is faster
 
 ## Installation
 ```sh
